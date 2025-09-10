@@ -1,4 +1,4 @@
-#Inporting the student information 
+#Importing the student information 
 def import_students(filename):
     #create an empy directory containing the student information
     studentInfo = {}
